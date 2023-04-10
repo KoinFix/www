@@ -11,12 +11,12 @@ module.exports = {
       'kfwhite': '#FFFDFD',
       transparent: 'transparent',
       primary: colors.kfblue,
+    },
     extend: {
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
       },
     },
-  },
   },
   plugins: [require("@tailwindcss/typography")],
 };
