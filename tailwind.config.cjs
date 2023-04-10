@@ -10,6 +10,7 @@ module.exports = {
     },
   },
   colors: {
+    primary: this.colors.kfblue,
     'kfblue': '#004D81',
     'kfyellow': '#FFBC00',
     'kfwhite': '#FFFDFD',
