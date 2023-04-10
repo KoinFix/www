@@ -18,8 +18,8 @@ const resolvedImageWithDomain = new URL(
 const { title } = Astro.props;
 
 const makeTitle = title
-  ? title + " | " + "Astroship"
-  : "Astroship - Starter Template for Astro with Tailwind CSS";
+  ? title + " | " + "KoinFix"
+  : "KoinFix - Web3 P2P Crypto Exchange";
 ---
 
 <!DOCTYPE html>
@@ -33,18 +33,18 @@ const makeTitle = title
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
     <SEO
       title={makeTitle}
-      description="Astroship is a starter website template for Astro built with TailwindCSS."
+      description="KoinFix is a Web3 peer-to-peer cryptocurrency exchange and fiat on/off-ramps built on Avalanche."
       canonical={canonicalURL}
       twitter={{
-        creator: "@surjithctly",
-        site: "@web3templates",
+        creator: "@realKoinFix",
+        site: "@realKoinFix",
         card: "summary_large_image",
       }}
       openGraph={{
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `Astroship - Starter Template for Astro`,
+          title: `KoinFix - Web3 P2P Crypto Exchange`,
           image: resolvedImageWithDomain,
         },
         image: {
