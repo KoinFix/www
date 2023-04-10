@@ -9,5 +9,11 @@ module.exports = {
       },
     },
   },
+  colors: {
+    'kfblue': '#004D81',
+    'kfyellow': '#FFBC00',
+    'kfwhite': '#FFFDFD',
+    transparent: 'transparent',
+  },
   plugins: [require("@tailwindcss/typography")],
 };
