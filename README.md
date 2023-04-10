@@ -1,4 +1,4 @@
-# KoinFix.com Website🛸
+# KoinFix.com Website
 
 KoinFix is a Web3 P2P crypto exchange and fiat on/off-ramp built on Avalanche C-Chain. Launching Q3 2023.
 
