@@ -8,7 +8,7 @@ module.exports = {
       'kfyellow': '#FFBC00',
       'kfwhite': '#FFFDFD',
       transparent: 'transparent',
-      primary: colors.kfblue,
+      primary: kfblue,
     extend: {
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
