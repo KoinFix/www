@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Announcing KoinFix: a new P2P crypto exchange"
-snippet: "Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat"
+title: "Announcing KoinFix: a New P2P Crypto Exchange"
+snippet: "KoinFix is a new Web3 P2P crypto exchange and fiat on/off-ramp that aims to launch in Q3 2023 on Avalanche C-Chain."
 publishDate: "2023-04-12 15:36"
 image: {
   src: "https://images.unsplash.com/photo-1633237245801-8bd38f06288b?&fit=crop&w=430&h=240",
@@ -16,9 +16,9 @@ tags: [KoinFix, decentralization, Web3, P2P, ramps]
 
 KoinFix is a new Web3 P2P crypto exchange and fiat on/off-ramp that aims to launch in Q3 2023 on Avalanche C-Chain.
 
-You can think of KoinFix as the next generation of the sorely missed services LocalBitcoins, LocalCryptos and Paxful. That is, services where you can buy and sell cryptocurrency peer-to-peer by trading fiat for crypto, or vice versa, directly with other users of the platform — or, in the case of KoinFix, protocol.
+You can think of KoinFix as the next generation of the sorely missed services LocalBitcoins, LocalCryptos and Paxful. That is, services where you can buy and sell cryptocurrency peer-to-peer by trading fiat for crypto, or vice versa, directly with other users of the platform &#8212; or, in the case of KoinFix, **protocol**.
 
-Protocol because KoinFix is not a centralized service run by a corporation like the above-named heroes of the early days of crypto. KoinFix is a Web3 protocol - that is, a set of rules and procedures to follow in order to achieve a given outcome without requiring the permission or assistance of a central authority, or middleman. 
+Protocol because KoinFix is not a centralized service run by a corporation like the above-named heroes of the early days of crypto. KoinFix is a Web3 protocol &#8212; that is, a set of rules and procedures to follow in order to achieve a given outcome without requiring the permission or assistance of a central authority, or middleman. 
 
 Web3 protocols usually run as "smart contracts" on blockchains such as Ethereum, Avalanche, Cosmos, etc. In this way, protocols such as KoinFix are aiming to be decentralized and permissionless. Decentralized because there is no central authority that controls the system. Permissionless because no one can deny you permission to use the KoinFix protocol, at least in theory.
 
@@ -27,6 +27,8 @@ Web3 protocols usually run as "smart contracts" on blockchains such as Ethereum,
 KoinFix is on a mission to facilitate access to cryptocurrency for people across the globe, without having to endure onerous KYC or the arbitrary limits and opaque reserves status of centralized exchanges.
 
 We are building the KoinFix P2P crypto exchange so anyone, anywhere can have uncensorable, KYC-free, transparent and open-source fiat on- and off-ramps.
+
+We see this as making a meaningful contribution towards the goal of facilitating access to prosperity for people across the globe who have been denied access to the full benefits of an accountable monetary system.
 
 ## Vision
 
@@ -42,7 +44,7 @@ We envision a world free from large-scale oppressive forces such as nation-state
 
 The KoinFix founders are [Samuel Barbosa](https://twitter.com/desamtralized) and [George Donnelly](https://georgedonnelly.com/about/). Samuel leans more technical while George leans more towards marketing but both of us have strong technical and communication skills.
 
-Both of us have an extensive experience working in the crypto world and evidencing our fascination with achieving crypto mass adoption. We especially care about individual adoption more than institutional or corporate adoption. After all, institutions are middlemen and sometimes create market distortions that are overall undesirable.
+Both of us have extensive experience working in the crypto world and evidencing our fascination with achieving crypto mass adoption. We especially care about individual adoption more than institutional or corporate adoption. After all, institutions are middlemen and sometimes create market distortions that are overall undesirable.
 
 And that's why we're building Web3, after all! To disintermediate the world.
 
@@ -54,7 +56,7 @@ We encourage you to join us in the process of protocol design via our [litepaper
 
 ## Engage With Us
 
-If the KoinFix mission is exciting to you, please join us and contribute to the level that is convenient for you. We welcome the interest of coders, writers, marketers, idea people, salespeople, community leaders, prospective partners and more. We want to work with you.
+If the KoinFix mission is exciting to you, please join us and contribute to the level that is convenient for you. We welcome the interest of coders, writers, marketers, idea people, thoughtful critics, salespeople, community leaders, prospective partners and more. We want to work with you.
 
 - [GitHub: KoinFix](https://github.com/KoinFix)
 - [Twitter: realKoinFix](https://twitter.com/realKoinFix)
