@@ -1,6 +1,6 @@
 ---
 draft: false
-name: "Samuel Barbosa"
+name: "ASamuel Barbosa"
 title: "CTO"
 avatar: {
     src: "https://static.panmoni.org/koinfix/samuelbarbosa.webp",
