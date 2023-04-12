@@ -18,13 +18,15 @@ KoinFix is a new Web3 P2P crypto exchange and fiat on/off-ramp that aims to laun
 
 You can think of KoinFix as the next generation of the sorely missed services LocalBitcoins, LocalCryptos and Paxful. That is, services where you can buy and sell cryptocurrency peer-to-peer by trading fiat for crypto, or vice versa, directly with other users of the platform &#8212; or, in the case of KoinFix, **protocol**.
 
-Protocol because KoinFix is not a centralized service run by a corporation like the above-named heroes of the early days of crypto. KoinFix is a Web3 protocol &#8212; that is, a set of rules and procedures to follow in order to achieve a given outcome without requiring the permission or assistance of a central authority, or middleman. 
+Protocol because KoinFix is not a centralized service run by a corporation like the above-named heroes of the early days of crypto. KoinFix is a Web3 protocol &#8212; that is, a set of rules and procedures to follow in order to achieve a given outcome without requiring the permission or assistance of a central authority, or middleman.
+
+In the case of KoinFix, that outcome is to execute a cryptocurrency trade, usually fiat for crypto or vice-versa. When buying crypto with fiat, this is called **on-ramping**. When selling crypto for fiat, this is called **off-ramping**.
 
 Web3 protocols usually run as "smart contracts" on blockchains such as Ethereum, Avalanche, Cosmos, etc. In this way, protocols such as KoinFix are aiming to be decentralized and permissionless. Decentralized because there is no central authority that controls the system. Permissionless because no one can deny you permission to use the KoinFix protocol, at least in theory.
 
 ## Mission
 
-KoinFix is on a mission to facilitate access to cryptocurrency for people across the globe, without having to endure onerous KYC or the arbitrary limits and opaque reserves status of centralized exchanges.
+KoinFix is on a mission to facilitate access to cryptocurrency for people across the globe, without having to endure onerous KYC or the arbitrary limits and opaque reserves status of centralized exchanges (CEXs).
 
 We are building the KoinFix P2P crypto exchange so anyone, anywhere can have uncensorable, KYC-free, transparent and open-source fiat on- and off-ramps.
 
@@ -50,7 +52,7 @@ And that's why we're building Web3, after all! To disintermediate the world.
 
 ## Protocol Design
 
-We are in favor of keeping things simple and true. The KoinFix tokenomics, for example, will be weighted heavily towards protocol users who create offers, i.e., makers.
+We are in favor of keeping things simple and true. The $KFIX tokenomics, for example, will be weighted heavily towards protocol users who create offers, i.e., **makers**.
 
 We encourage you to join us in the process of protocol design via our [litepaper GitHub repo](https://github.com/KoinFix/litepaper), as there is still much to discuss, decide and define. We want and value your input.
 
