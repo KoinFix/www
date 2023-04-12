@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content";
+import { Picture } from "@astrojs/image/components";
+import Layout from "@layouts/Layout.astro";
+import Container from "@components/container.astro";
+import Sectionhead from "@components/sectionhead.astro";
+
+// Filter team entries with 'draft: false' & date before current date
+const publishedTeamMembers = await getCollection("team", ({ data }) => {
+  return !data.draft && data.publishDate < new Date();
+});
+---
+
+<Layout title="Roadmap">
+  <Container>
+    <Sectionhead>
+      <Fragment slot="title">Roadmap</Fragment>
+      <Fragment slot="desc">The KoinFix roadmap is under development. We welcome your ideas in our <a href="https://discord.gg/vR8qvPUyN9"></a>discord</a>.</Fragment>
+    </Sectionhead>
+
+
+  </Container>
+</Layout>
