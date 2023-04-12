@@ -12,7 +12,7 @@ author: "George Donnelly"
 tags: [KoinFix, decentralization, Web3, P2P, ramps]
 ---
 
-![Super wide](https://images.unsplash.com/1633237245801-8bd38f06288b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2MDc4MTk3Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080)
+![Super wide](https://images.unsplash.com/photo-1633237245801-8bd38f06288b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2MDc4MTk3Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080)
 
 KoinFix is a new Web3 P2P crypto exchange and fiat on/off-ramp that aims to launch in Q3 2023 on Avalanche C-Chain.
 
