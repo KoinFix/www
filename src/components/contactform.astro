@@ -4,13 +4,16 @@ import Button from "./ui/button.astro";
 
 <!-- To make this contact form work, create your free access key from https://web3forms.com/
      Then you will get all form submissions in your email inbox. -->
+<p class="text-lg leading-relaxed text-slate-500 mt-3">
+  Please do not use the form to send us sensitive information.
+</p>
 <form
   action="https://api.web3forms.com/submit"
   method="POST"
   id="form"
   class="needs-validation"
   novalidate>
-  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
+  <input type="hidden" name="access_key" value="d50840e5-c03e-47f7-b2cf-3eb27b444ddd" />
   <!-- Create your free access key from https://web3forms.com/ -->
   <input type="checkbox" class="hidden" style="display:none" name="botcheck" />
   <div class="mb-5">
@@ -52,7 +55,7 @@ import Button from "./ui/button.astro";
       Please enter your message.
     </div>
   </div>
-  <Button type="submit" size="lg" block>Send Message</Button>
+  <Button class="bg-kfblue" type="submit" size="lg" block>Send Message</Button>
   <div id="result" class="mt-3 text-center"></div>
 </form>
 
