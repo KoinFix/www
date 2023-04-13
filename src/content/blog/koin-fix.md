@@ -66,3 +66,7 @@ If the KoinFix mission is exciting to you, please join us and contribute to the 
 - [Twitter: realKoinFix](https://twitter.com/realKoinFix)
 - [Discord](https://discord.gg/vR8qvPUyN9)
 - [Telegram](https://t.me/RealKoinFix)
+
+## Credits
+
+Photo by <a href="https://unsplash.com/@nathjennings_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Jennings</a> on <a href="https://unsplash.com/photos/vvrxEGvuqwo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
