@@ -48,7 +48,7 @@ The KoinFix founders are [Samuel Barbosa](https://twitter.com/desamtralized) and
 
 Both of us have extensive experience working in the crypto world and evidencing our fascination with achieving crypto mass adoption. We especially care about individual adoption more than institutional or corporate adoption. After all, institutions are middlemen and sometimes create market distortions that are overall undesirable.
 
-And that's why we're building Web3, after all! To disintermediate the world.
+And that's why we're building Web3, at the end of the day! To disintermediate the world.
 
 ## Protocol Design
 
