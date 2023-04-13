@@ -32,6 +32,8 @@ We are building the KoinFix P2P crypto exchange so anyone, anywhere can have unc
 
 We see this as making a meaningful contribution towards the goal of facilitating access to prosperity for people across the globe who have been denied access to the full benefits of an accountable monetary system.
 
+Towards that end, we seek to work with individuals, teams, chains and anyone who is also excited about this mission.
+
 ## Vision
 
 We envision a world of universal prosperity, where every human being has the opportunity to realize their potential.
