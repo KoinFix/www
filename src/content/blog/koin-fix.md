@@ -44,14 +44,6 @@ We envision a world of crypto mass adoption, where everyone has access to prospe
 
 We envision a world free from large-scale oppressive forces such as nation-states and rent-seeking intermediaries such as banks, so that individuals can develop as they see fit, entering into voluntary relationships with each other by mutual agreement, without interference from those who would unjustly tilt the playing field in their own favor using aggressive institutions or unfair restrictions on our liberty.
 
-## Founders
-
-The KoinFix founders are [Samuel Barbosa](https://twitter.com/desamtralized) and [George Donnelly](https://georgedonnelly.com/about/). Samuel leans more technical while George leans more towards marketing but both of us have strong technical and communication skills.
-
-Both of us have extensive experience working in the crypto world and evidencing our fascination with achieving crypto mass adoption. We especially care about individual adoption more than institutional or corporate adoption. After all, institutions are middlemen and sometimes create market distortions that are overall undesirable.
-
-And that's why we're building Web3, at the end of the day! To disintermediate the world.
-
 ## Protocol Design
 
 We are in favor of keeping things simple and true. The $KFIX tokenomics, for example, will be weighted heavily towards protocol users who create offers, i.e., **makers**.
