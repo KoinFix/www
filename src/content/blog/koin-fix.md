@@ -48,16 +48,16 @@ We envision a world free from large-scale oppressive forces such as nation-state
 
 We are in favor of keeping things simple and true. The $KFIX tokenomics, for example, will be weighted heavily towards protocol users who create offers, i.e., **makers**.
 
-We encourage you to join us in the process of protocol design via our [litepaper GitHub repo](https://github.com/KoinFix/litepaper), as there is still much to discuss, decide and define. We want and value your input.
+We encourage you to join us in the process of protocol design via our [litepaper GitHub repo](https://github.com/Panmoni/koinfix-litepaper), as there is still much to discuss, decide and define. We want and value your input.
 
 ## Engage With Us
 
 If the KoinFix mission is exciting to you, please join us and contribute to the level that is convenient for you. We welcome the interest of coders, writers, marketers, idea people, thoughtful critics, salespeople, community leaders, prospective partners and more. We want to work with you.
 
-- [GitHub: KoinFix](https://github.com/KoinFix)
+- [GitHub: Panmoni](https://github.com/Panmoni)
 - [Twitter: realKoinFix](https://twitter.com/realKoinFix)
 - [Discord](https://discord.gg/vR8qvPUyN9)
-- [Telegram](https://t.me/RealKoinFix)
+- [Telegram](https://t.me/Panmoni/288)
 
 ## Credits
 
