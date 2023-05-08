@@ -56,7 +56,7 @@ If the KoinFix mission is exciting to you, please join us and contribute to the 
 
 - [GitHub: Panmoni](https://github.com/Panmoni)
 - [Twitter: realKoinFix](https://twitter.com/realKoinFix)
-- [Discord](https://discord.gg/vR8qvPUyN9)
+- [Discord](https://discord.gg/GUdCPxftUq)
 - [Telegram](https://t.me/Panmoni/288)
 
 ## Credits
